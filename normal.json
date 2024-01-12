@@ -1,0 +1,78 @@
+{
+  "covers": [
+    {
+      "image_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_cover/cover1.jpg",
+      "link": ""
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_cover/cover2.jpg",
+      "link": ""
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "A Haunting Journey",
+      "description": "Nestled amidst a dense forest, the Red House stood as a haunting sentinel of an age long forgotten. Its crimson walls, peeling and weathered, were an eerie reminder of the family that had once thrived within its walls. Legend spoke of dark secrets buried deep within, and the town's people dared not approach it after nightfall.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book1",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    },
+    {
+      "id": 2,
+      "name": "A Surprise Visitor",
+      "description": "The sun hung low in the sky, casting a warm, golden glow over the small coastal town of Harbor Haven. In a quaint, little cottage nestled among the sand dunes, Emily sat on the porch, her eyes fixed on the horizon. She had been waiting for him, for what felt like a lifetime.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book2",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    },
+    {
+      "id": 3,
+      "name": "The Grand Paradox",
+      "description": "In the not-so-distant future, in a world where technology had advanced far beyond what was thought possible, humanity stood on the cusp of a new era. Dr. Elizabeth Harlow, a brilliant physicist, had dedicated her life to unlocking the mysteries of time travel. Her vision was to create a device that would allow for the exploration of the past and the future, a device she called \"The Chrono Nexus.\"",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book3",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": true
+    },
+    {
+      "id": 4,
+      "name": "The Journey",
+      "description": "The rain had been falling steadily for hours, turning the bustling city into a sea of umbrellas and hurried footsteps. As I stood on the street corner, waiting for the traffic light to change, I noticed you for the first time. You were standing a few feet away, your umbrella sheltering you from the downpour. Your gaze was fixed on a book you held in your hands, and you seemed completely engrossed in its pages.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book4",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    },
+    {
+      "id": 5,
+      "name": "The Quest for the Enchanted Steel",
+      "description": "In the quiet, sleepy village of Eldoria, nestled in the heart of the Kingdom of Arlandia, a young blacksmith's apprentice named Alaric dreamt of wielding a sword of great power. From a young age, he had been fascinated by the art of crafting weapons, watching his master, Elowen, create some of the finest blades in the kingdom.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book5",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    },
+    {
+      "id": 6,
+      "name": "The Trials of the Lonely Bridge",
+      "description": "The sky was a canvas of swirling shades of orange and pink, casting a warm, inviting glow over the small town of Havenbrook. A gentle breeze rustled through the trees, and the distant hum of crickets filled the air. It was the kind of evening that made you feel alive, but for Emily Adams, it only emphasized her loneliness.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book6",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": true
+    },
+    {
+      "id": 7,
+      "name": "The Unfinished Letter",
+      "description": "The small town of Willowbrook was bathed in the golden hues of a midsummer afternoon as a train pulled into the station, its wheels clacking in a rhythm that marked the beginning of a new adventure. The air was filled with the scent of blooming wildflowers, and the sound of children playing echoed in the distance. Among the passengers stepping off the train was Emily, a woman in her late twenties with a heart full of hope and a backpack brimming with dreams.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book7",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    },
+    {
+      "id": 8,
+      "name": "Whispers of the Wild",
+      "description": "Elias' days were a tapestry of chores, mending, and dodging Elara's viperish tongue. He scrubbed floors until his knuckles bled, mended clothes until his fingers prickled, and learned to navigate the house like a mouse skirting a hungry cat. His only solace was the forest, a sprawling emerald embrace that whispered secrets in the rustle of leaves and offered companionship in the hooting of owls.",
+      "book_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_book/book8",
+      "cover_url": "https://raw.githubusercontent.com/sawpyitkaung18/apyar_saroak/main/normal_image/cover.jpg",
+      "premium": false
+    }
+  ]
+}
